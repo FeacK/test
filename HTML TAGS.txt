@@ -1,0 +1,18 @@
+<HTML></HTML>
+<HEAD></HEAD> - head content
+<BODY></BODY> - body content
+<H></H> - Загаловок
+<P></P> - Параграф
+<EM></EM> - Наклонный текст
+<DL><DT></DT></DL> - Списки описания
+<STRONG></STRONG> -БОЛД
+<HR> - ГОРИЗОНТАЛЬНАЯ ЛИНЯЯ
+<UL><LI></LI></UL> - СПИСОК БЕЗ ПОРЯДКА С ТОЧКАМИ ( COMPACT, TYPE (CIRCLE, DISC, SQUARE))
+<OL><LI></LI></OL> - СПИСОК С ПОРЯДКОМ С ЦИФРАМИ (REVERSED, START, TYPE)
+<A></A> -HYPERLINK TO WEBSITE
+<IMG> - PICTURE (SRC,WIDTH,HEIGHT,ALT)
+<TABLE><TR><TD></TD></TR></TABLE> - TABLE
+	<TH></TH> - TABLE HEADER - INSIDE <TR>
+<thead></thead>
+<tbody></tbody>
+<tfoot></tfoot>
